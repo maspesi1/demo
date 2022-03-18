@@ -11,7 +11,7 @@
         <server>
           <id>nexus</id>
           <username>admin</username>
-          <password>{xdp1jXObhUcHByuKf1Uhu1VypZPArnOP/8RPpGzlDgk=}</password>
+          <password>admin123</password>
         </server>
       </servers>
     </settings>
