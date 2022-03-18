@@ -4,14 +4,14 @@
         <mirror>
           <id>nexus</id>
           <mirrorOf>*</mirrorOf>
-          <url>http://localhost:8081/nexus/content/groups/public</url>
+          <url>http://nexus-demo-allitude.apps-crc.testing/repository/maven-public/</url>
         </mirror>
       </mirrors>
       <servers>
         <server>
           <id>nexus</id>
           <username>admin</username>
-          <password>admin123</password>
+          <password>{xdp1jXObhUcHByuKf1Uhu1VypZPArnOP/8RPpGzlDgk=}</password>
         </server>
       </servers>
     </settings>
